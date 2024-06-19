@@ -1,0 +1,64 @@
+body{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+}
+form{
+    border-radius: 10px;
+    border-color: black;
+    border-style: ridge;
+    border-width: 5px;
+
+    background-color: whitesmoke;
+
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding: 5px;
+    text-align: end;
+}
+fieldset{
+    background-color: white;
+}
+label, input{
+    margin:5px;
+    margin-right: 25%;
+}
+label {
+    display:inline-block;
+    margin: 0.5rem 0;
+  }
+div{
+    text-align: center;
+}
+.in{
+    margin-left: 25%;
+}
+#login{
+    background-color: blanchedalmond;
+
+    padding: 2%;
+
+    border-radius: 20px;
+    border-color: blanchedalmond;
+
+    width: 150px;
+}
+#login:hover{
+    background-color: gray;
+}
+#aanmeld{
+    background-color: blanchedalmond;
+
+    padding: 2%;
+
+    border-radius: 20px;
+    border-color: blanchedalmond;
+    
+    width: 150px;
+}
+#aanmeld:hover{
+    background-color: gray;
+}
